@@ -104,48 +104,46 @@ CIPROM/2022/20. The work of Marcel Fernández has been supported by TCO-RISEBLOC
 
 [1] Y. L. Sagalovich, _Separating systems_, Problemy Peredachi Informatsii 30 (2) (1994) 14–35.
 
-[2] Y. L. Sagalovich, _Separating systems_, Problems Inform. Transmission 30 (2) (1994) 105–123.
-
-[3] A. Barg, G. R. Blakley, G. A. Kabatiansky, _Digital fingerprinting codes: Problem statements,
+[2] A. Barg, G. R. Blakley, G. A. Kabatiansky, _Digital fingerprinting codes: Problem statements,
 constructions, identification of traitors_, IEEE Transactions on Information Theory 49 (4)
 (2003) 852–865.
 
-[4] J. Moreira, M. Fernández, G. Kabatiansky, _Almost separating and almost secure frameproof
+[3] J. Moreira, M. Fernández, G. Kabatiansky, _Almost separating and almost secure frameproof
 codes over q-ary alphabets_, Des. Codes Cryptogr. 80 (1) (2016) 11–28.
 
-[5] J. Körner, G. Simonyi, _Separating partition systems and locally different sequences_, SIAM
+[4] J. Körner, G. Simonyi, _Separating partition systems and locally different sequences_, SIAM
 journal on discrete mathematics 1 (3) (1988) 355–359.
 
-[6] I. V. Vorob’ev, V. S. Lebedev, _Improved upper bounds for the rate of separating and completely
+[5] I. V. Vorob’ev, V. S. Lebedev, _Improved upper bounds for the rate of separating and completely
 separating codes_, Probl. Inf. Transm. 58 (3) (2022) 242–253.
 
-[7] P. Erdös, L. Lovàsz, _Problems and results on 3-chromatic hypergraphs and some related
+[6] P. Erdös, L. Lovàsz, _Problems and results on 3-chromatic hypergraphs and some related
 questions_, Infinite and finite sets 10 (1975) 609–627.
 
-[8] R. A. Moser, _A constructive proof of the Lov´asz local lemma_, in: Proceedings 41st Annual
+[7] R. A. Moser, _A constructive proof of the Lov´asz local lemma_, in: Proceedings 41st Annual
 ACM Symposium on Theory of Computing (STOC), ACM, 2009, pp. 343–350.
 
-[9] R. A. Moser, G. Tardos, _A constructive proof of the general Lovàsz local lemma_, Journal of
+[8] R. A. Moser, G. Tardos, _A constructive proof of the general Lovàsz local lemma_, Journal of
 the ACM (JACM) 57 (2) (2010) 11.
 
-[10] I. Giotis, L. Kirousis, K. I. Psaromiligkos, D. M. Thilikos, _On the algorithmic Lov´asz local
+[9] I. Giotis, L. Kirousis, K. I. Psaromiligkos, D. M. Thilikos, _On the algorithmic Lov´asz local
 lemma and acyclic edge coloring_, in: Proceedings of the twelfth workshop on analytic algorithmics
 and combinatorics, Society for Industrial and Applied Mathematics, 2015, pp. 16–25.
 
-[11] M. Fernández, J. Livieratos, _Algorithmic aspects on the construction of separating codes_, in:
+[10] M. Fernández, J. Livieratos, _Algorithmic aspects on the construction of separating codes_, in:
 Analysis of Experimental Algorithms - Special Event, SEA2 2019, Kalamata, Greece, June 24-
 29, 2019, Revised Selected Papers, Vol. 11544 of Lecture Notes in Computer Science, Springer,
 2019, pp. 513–526.
 
-[12] NVIDIA Corporation, _NVIDIA CUDA Compute Unified Device Architecture Programming
+[11] NVIDIA Corporation, _NVIDIA CUDA Compute Unified Device Architecture Programming
 Guide_, NVIDIA Corporation, 2007.
 
-[13] J. Spencer, _Asymptotic lower bounds for ramsey functions_, Discrete Mathematics 20 (1977)
+[12] J. Spencer, _Asymptotic lower bounds for ramsey functions_, Discrete Mathematics 20 (1977)
 69–76.
 
-[14] _MATLAB, version 9.8.0.1323502 (R2020a)_, Natick, Massachusetts, 2020.
+[13] _MATLAB, version 9.8.0.1323502 (R2020a)_, Natick, Massachusetts, 2020.
 
-[15] _MATLAB, Parallel computing toolbox version 7.2_ (r2020a) (2022).
+[14] _MATLAB, Parallel computing toolbox version 7.2_ (r2020a) (2022).
 
 </div>
 
