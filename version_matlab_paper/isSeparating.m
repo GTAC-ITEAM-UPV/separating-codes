@@ -16,7 +16,7 @@ OK = 0;
 fails=0;
 
 for i = 1:ncomb
-    
+%parfor    
     cuadrupla = [ codewords(combinations(i,1),:);
                   codewords(combinations(i,2),:);
                   codewords(combinations(i,3),:);

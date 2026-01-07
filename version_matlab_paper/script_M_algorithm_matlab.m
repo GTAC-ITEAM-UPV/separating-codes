@@ -5,11 +5,9 @@ rng(1);
 
 
 tic
-
-
 m1=rand(M,n);
 code=m1>0.5;
-    
+code_sep_obtained=1;    
 combin = gen_all_possibilities(M);
 bad_events=isSeparating(code,combin);
 if bad_events~=0 
@@ -18,6 +16,7 @@ if bad_events~=0
         while code_sep_obtained==0
             iter_samp=iter_samp+1
             [code,fails_resamp] = m_alg_resamp(code, combin);
+            %fails_resamp
             if fails_resamp==0
                 code_sep_obtained=1
             end
@@ -31,4 +30,5 @@ end
 toc
 if code_sep_obtained==1
 code
+disp('success')
 end

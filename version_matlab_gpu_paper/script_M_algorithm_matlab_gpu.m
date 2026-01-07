@@ -2,12 +2,13 @@ clear
 rng(1);
 
 kern_check2=parallel.gpu.CUDAKernel('gpu_check_cuad.ptx','gpu_check_cuad.cu');
-M=130 %number of words
-n=111 % word length
+M=80 %number of words
+n=99 % word length
 tic
 
 m1=rand(M,n);
 code_ini=m1>0.5;
+sepcode=1;
 combin = gen_all_possibilities(M);
 combint=gpuArray(int32(combin-1));
 [ncomb, ramas] = size(combin);

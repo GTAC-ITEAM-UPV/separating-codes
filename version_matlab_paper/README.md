@@ -1,6 +1,5 @@
 # Contents
 
-![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/GTAC-ITEAM-UPV/separating-codes/version_matlab_paper)
 
 
 The script [`script_M_algorithm_matlab.m`](script_M_algorithm_matlab.m) tries to obtain a _binary 2-separating

@@ -1,16 +1,5 @@
 # SOFTWARE FOR GENERATION OF BINARY 2-SEPARATING CODES
 
-![GitHub License](https://img.shields.io/github/license/GTAC-ITEAM-UPV/separating-codes)
-![GitHub language count](https://img.shields.io/github/languages/count/GTAC-ITEAM-UPV/separating-codes)
-![GitHub top language](https://img.shields.io/github/languages/top/GTAC-ITEAM-UPV/separating-codes)
-
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/GTAC-ITEAM-UPV/separating-codes)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GTAC-ITEAM-UPV/separating-codes)
-![GitHub issues](https://img.shields.io/github/issues/GTAC-ITEAM-UPV/separating-codes)
-
-![GitHub watchers](https://img.shields.io/github/watchers/GTAC-ITEAM-UPV/separating-codes)
-![GitHub forks](https://img.shields.io/github/forks/GTAC-ITEAM-UPV/separating-codes)
-![GitHub Repo stars](https://img.shields.io/github/stars/GTAC-ITEAM-UPV/separating-codes)
 
 
 

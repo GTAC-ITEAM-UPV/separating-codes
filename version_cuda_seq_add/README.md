@@ -1,6 +1,5 @@
 # Content
 
-![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/GTAC-ITEAM-UPV/separating-codes/version_cuda_seq_add)
 
 
 
